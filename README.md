@@ -1,6 +1,7 @@
 # SOC-LEVEL-1-TRIAGE
 <img width="1920" height="1080" alt="Screenshot 2026-02-06 120053" src="https://github.com/user-attachments/assets/de936c35-c7f5-40d6-8144-a117db23f644" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-06 115345" src="https://github.com/user-attachments/assets/ade2dedf-dc94-4f6e-8aef-43c367eac64b" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 122237" src="https://github.com/user-attachments/assets/88a8f23d-4088-45d7-8ce0-6986e88e6f53" />
  SOC Level 1 Analyst Project – TryHackMe Lab
 
  Role
